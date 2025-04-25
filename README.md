@@ -8,7 +8,7 @@ A comprehensive data analysis project exploring Netflix's content library, trend
 📌 Overview
 <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; border-left: 4px solid #E50914;"> This project analyzes Netflix's movie and TV show dataset to uncover insights about: - 🎥 Content distribution by type, country, and release year - 📈 Genre popularity trends over time - ⭐ Rating distributions - ⏱️ Content duration patterns - 🍂 Seasonal release trends </div>
 📊 Dataset
-<div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px; border-left: 4px solid #00A8E1;"> The analysis uses the <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows" style="color: #0066cc; text-decoration: none;">"Netflix Movies and TV Shows" dataset</a> from Kaggle, which contains: - 🎬 8,000+ movies and TV shows - 📋 12 attributes including title, director, cast, country, release year, rating, duration, and more </div>
+<div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px; border-left: 4px solid #00A8E1;"> The analysis uses the <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows" style="color: #0066cc; text-decoration: none;">"Netflix Movies and TV Shows" dataset</a> from Kaggle, which contains: - 🎬 10,000+ movies and TV shows - 📋 12 attributes including title, director, cast, country, release year, rating, duration, and more </div>
 🔍 Key Findings
 🟥 1. Content Growth Over Time
 Release Year Distribution
