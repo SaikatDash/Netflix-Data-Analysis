@@ -17,14 +17,16 @@ Release Year Distribution
 
 🎉 70% of Netflix content released in the last 5 years
 
-🟦 2. International Expansion
-Country Distribution
 
-🇺🇸 United States produces the most content (40%)
+🟨 2. Content Type Analysis
+Movies vs TV Shows
 
-🌍 Increasing non-English content since 2018
+🎥 Movies dominate the library (70%)
 
-🟨 3. Content Type Analysis
+📺 TV show production is growing faster
+
+
+🟨 3. Active user Analysis
 Movies vs TV Shows
 
 🎥 Movies dominate the library (70%)
@@ -36,4 +38,3 @@ Category	Technologies
 Analysis	<span style="color: #E50914;">Python</span> (Pandas, NumPy)
 Visualization	<span style="color: #00A8E1;">Matplotlib</span>, <span style="color: #FFD700;">Seaborn</span>, Plotly
 Environment	<span style="color: #2ecc71;">Jupyter Notebook</span>
-Dashboard	<span style="color: #9b59b6;">Tableau</span>
